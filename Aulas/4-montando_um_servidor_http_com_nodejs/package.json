@@ -1,0 +1,15 @@
+{
+  "name": "4-montando_um_servidor_http_com_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcus Martins",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
